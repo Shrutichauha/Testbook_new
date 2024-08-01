@@ -1,0 +1,96 @@
+[
+    {
+        "id":1,
+        "name":"Jee Main papers",
+        "title":"Practice online test series and free mock tests",
+        "price":0,
+        "category":"Free",
+        "image":"https://jimmymaths.com/wp-content/uploads/2022/04/Free-Test-Papers-scaled.jpg"
+    },
+
+
+
+    {
+        "id":2,
+        "name":"Gate Papers",
+        "title":"Practice online test series and free mock tests",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://jimmymaths.com/wp-content/uploads/2022/04/Free-Test-Papers-scaled.jpg"
+    },
+
+
+
+    {
+        "id":3,
+        "name":"Neet Papers",
+        "title":"Practice online test series and free mock tests",
+        "price":100,
+        "category":"song",
+        "image":"https://jimmymaths.com/wp-content/uploads/2022/04/Free-Test-Papers-scaled.jpg"
+    },
+
+
+    {
+        "id":4,
+        "name":"Nursing Papers",
+        "title":"Practice online test series and free mock tests",
+        "price":50,
+        "category":"run",
+        "image":"https://jimmymaths.com/wp-content/uploads/2022/04/Free-Test-Papers-scaled.jpg"
+    },
+
+
+
+    {
+        "id":5,
+        "name":"NDA Papers",
+        "title":"Practice online test series and free mock tests",
+        "price":0,
+        "category":"Free",
+        "image":"https://jimmymaths.com/wp-content/uploads/2022/04/Free-Test-Papers-scaled.jpg"
+    },
+
+
+    {
+        "id":6,
+        "name":"Railway Papers",
+        "title":"Practice online test series and free mock tests",
+        "price":0,
+        "category":"Free",
+        "image":"https://jimmymaths.com/wp-content/uploads/2022/04/Free-Test-Papers-scaled.jpg"
+    },
+
+
+    {
+        "id":7,
+        "name":" SSC CGL Papers",
+        "title":"Practice online test series and free mock tests",
+        "price":110,
+        "category":"rhyme",
+        "image":"https://jimmymaths.com/wp-content/uploads/2022/04/Free-Test-Papers-scaled.jpg"
+    },
+
+
+    {
+        "id":8,
+        "name":"UPSC Papers",
+        "title":"Practice online test series and free mock tests",
+        "price":0,
+        "category":"Free",
+        "image":"https://jimmymaths.com/wp-content/uploads/2022/04/Free-Test-Papers-scaled.jpg"
+    }, 
+
+
+    {
+        "id":9,
+        "name":"CGL Papers",
+        "title":"Practice online test series and free mock tests",
+        "price":0,
+        "category":"Free",
+        "image":"https://jimmymaths.com/wp-content/uploads/2022/04/Free-Test-Papers-scaled.jpg"
+    }
+
+
+
+]
